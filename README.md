@@ -22,7 +22,7 @@ With an easy to use interface for creating a plant watering schedule tailored to
 ### API endpoints
 https://www.notion.so/f5da78cfa5134386a365c4c449d0fabf?v=152e555550034dd88c59ab636610e2a5
 
-### Heroku / Vercel Deployed Link: 
+### Heroku Deployed Link: https://build-week-unit4-water-my-plan.herokuapp.com/
 
 ## *Meet the Team*
 Lindsay Kelly - Frontend React Engineer
